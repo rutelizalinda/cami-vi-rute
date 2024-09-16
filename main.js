@@ -1,3 +1,1 @@
-alert('camila,vitoria,rute,mariaramao'
-    
-)
+alert('camila,vitoria,rute,mariaramao')
